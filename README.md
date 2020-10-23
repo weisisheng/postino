@@ -15,7 +15,7 @@ terraform apply
 ```
 
 ### How it works
-- store yout template in `templates/`
+- store your template in `templates/`
 - store on dynamodb this payload:
 ```
 {
